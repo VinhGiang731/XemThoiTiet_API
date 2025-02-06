@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DuBaoThoiTiet</string>
+    <string name="btn_getWeather">Get weather</string>
+    <string name="input">Enter your city</string>
+    <string name="output">Result</string>
+</resources>
